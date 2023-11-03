@@ -28,7 +28,7 @@ Spleeter GUI is a graphical application built with wxPython for utilizing [Splee
 
 1. Clone the repository: `git clone https://github.com/tuononen/spleeter-gui.git`
 2. Navigate to the project directory: `cd spleeter-gui`
-3. Run the application: `python main.py`
+3. Run the application: `python gui.py`
 
 ## Contributions
 
