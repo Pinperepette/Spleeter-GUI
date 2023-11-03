@@ -21,8 +21,8 @@ Spleeter GUI is a graphical application built with wxPython for utilizing [Splee
 ## Requirements
 
 - [Python](https://www.python.org/) (recommended version: 3.6 or above)
-- [wxPython](https://wxpython.org/) (automatically installed when running the app)
-- [Spleeter](https://github.com/deezer/spleeter) (automatically installed when running the app)
+- [wxPython](https://wxpython.org/) (pip install wxPython)
+- [Spleeter](https://github.com/deezer/spleeter) (pip install spleeter)
 
 ## How to Run the Application
 
