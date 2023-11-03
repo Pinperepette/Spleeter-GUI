@@ -2,6 +2,8 @@
 
 Spleeter GUI is a graphical application built with wxPython for utilizing [Spleeter](https://github.com/deezer/spleeter), an open-source library developed by Deezer for separating audio tracks into vocals and instruments.
 
+![Coccodio](image.png)
+
 ## Key Features
 
 - **Audio File Selection:** Easily select the audio file (supported formats: mp3, wav) you want to separate into vocal and instrumental tracks.
